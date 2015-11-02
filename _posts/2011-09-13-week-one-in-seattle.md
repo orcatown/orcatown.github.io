@@ -2,10 +2,6 @@
 published: true
 ---
 
-
-
-
-
 Other than our deep dismay in discovering that we have a fatty with a penchant for pacing on a squeaky floorboard above our bedroom in the middle of the night, Seattle has been a good experience.  The ferries are charming and lovely to ride, and there is something comforting about watching their half-hourly movement across the sound.
 
 ![](https://s3.amazonaws.com/orcatown/p1000063.jpg)
