@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Week One in Seattle
 published: true
 ---
 
