@@ -2,15 +2,16 @@
 published: false
 ---
 
+
 Other than our deep dismay in discovering that we have a fatty with a penchant for pacing on a squeaky floorboard above our bedroom in the middle of the night, Seattle has been a good experience.  The ferries are charming and lovely to ride, and there is something comforting about watching their half-hourly movement across the sound.
 
-![The Northwest view from out apartment.](https://s3.amazonaws.com/orcatown/p1000063.jpg)
+![](https://s3.amazonaws.com/orcatown/p1000063.jpg)
 *The Northwest view from out apartment.*
 
 We took a ferry out to Bainbridge Island, a 35 minute ride from Seattle.  The Island was surprisingly charming, with a small town like those found commonly in Virginia. We wandered the farmers market and walked to the harbor. I’d like to go back and go kayaking, so I’m keeping my fingers crossed for good weather this Saturday.
 
-
-Seattle from the Bainbridge Ferry
+![](https://s3.amazonaws.com/orcatown/p1000072-1.jpg)
+*Seattle from the Bainbridge Ferry*
 
 I did not puke on the ferry ride, which was excellent.
 
