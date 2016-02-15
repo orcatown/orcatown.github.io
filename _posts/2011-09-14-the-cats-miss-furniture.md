@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week One in Seattle
+title: The Cats Miss Furniture
 published: true
 ---
 
