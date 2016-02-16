@@ -271,7 +271,14 @@ nav {
   }
   
   img {
+    display: block;
     width: 100%;
+  }
+  
+  img + em {
+    display: block;
+    background: #EFEFEF;
+    padding: 5px;
   }
 }
 
