@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEATTLE: The Future is 1962
+title: SEATTLE -- The Future is 1962
 published: true
 ---
 
